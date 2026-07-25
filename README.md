@@ -1,4 +1,4 @@
-# Data Lake MongoDB — Détection de fraude à partir de flux transactionnels multi-sources
+# Data Lake MongoDB de Détection de fraude à partir de flux transactionnels multi-sources
 
 Projet réalisé dans le cadre du Master 1 DATA-IA, module NoSQL, à l'Université Polytechnique de Bingerville (UPB).
 
@@ -87,3 +87,7 @@ load("scripts/06_fraud_rules.js")
 ## Limites connues
 
 Le jeu de données étant synthétique, il n'existe pas de vérité terrain permettant de valider les alertes générées (voir section 6 du rapport pour une discussion complète). 98,7 % des expéditeurs Mobile Money n'effectuent qu'une seule transaction sur la période, ce qui limite l'exploitation de certains indicateurs de vélocité — un point également détaillé et corrigé dans le rapport.
+
+## Licence
+
+Projet académique à usage pédagogique.
