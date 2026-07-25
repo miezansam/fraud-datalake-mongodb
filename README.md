@@ -6,7 +6,7 @@
 ![JSON Schema](https://img.shields.io/badge/JSON_Schema-Validation-orange)
 ![NoSQL](https://img.shields.io/badge/NoSQL-Document_Store-informational)
 
-Projet réalisé dans le cadre du Master 1 DATA-IA, module NoSQL, à l'Université Polytechnique de Bingerville (UPB).
+Projet réalisé dans le cadre du Master 1 DATA-IA, module **NoSQL**, à l'Université Polytechnique de Bingerville (UPB).
 
 **Auteur :** YAO MIÉZAN SAM WILLIAM
 **Enseignant :** M. SORO SEYDOU
