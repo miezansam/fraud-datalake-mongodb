@@ -1,4 +1,10 @@
 # Data Lake MongoDB de Détection de fraude à partir de flux transactionnels multi-sources
+![MongoDB](https://img.shields.io/badge/MongoDB-7.0-darkgreen)
+![mongosh](https://img.shields.io/badge/mongosh-2.9-brightgreen)
+![Database Tools](https://img.shields.io/badge/MongoDB_Database_Tools-mongoimport-blue)
+![Aggregation Pipeline](https://img.shields.io/badge/Aggregation_Pipeline-✓-success)
+![JSON Schema](https://img.shields.io/badge/JSON_Schema-Validation-orange)
+![NoSQL](https://img.shields.io/badge/NoSQL-Document_Store-informational)
 
 Projet réalisé dans le cadre du Master 1 DATA-IA, module NoSQL, à l'Université Polytechnique de Bingerville (UPB).
 
