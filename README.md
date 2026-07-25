@@ -27,8 +27,8 @@ Le pipeline suit un modèle en couches (*medallion architecture*) qui sépare cl
 
 Ce projet met en place un Data Lake sur MongoDB pour détecter des transactions suspectes en croisant deux flux transactionnels indépendants circulant en Côte d'Ivoire :
 
-- **Flux Mobile Money** — 100 000 transactions réparties sur 4 opérateurs (MTN CI, Orange Money, Moov Africa, Wave)
-- **Flux Ventes Commerce** — 100 000 ventes de commerçants abidjanais, dont 33 % réglées en Mobile Money
+- **Flux Mobile Money** : 100 000 transactions réparties sur 4 opérateurs (MTN CI, Orange Money, Moov Africa, Wave)
+- **Flux Ventes Commerce** : 100 000 ventes de commerçants abidjanais, dont 33 % réglées en Mobile Money
 
 Les deux flux se recoupent sur une période commune (janvier à juin 2024) et des zones géographiques communes (Adjamé, Cocody, Marcory, Plateau, Yopougon), ce qui permet une véritable corrélation entre sources plutôt qu'une simple analyse isolée.
 
