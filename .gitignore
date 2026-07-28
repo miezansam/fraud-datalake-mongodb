@@ -1,7 +1,3 @@
-# Données sources volumineuses — à ne pas versionner sur GitHub
-# (mentionner dans le README où les récupérer, ou utiliser Git LFS si besoin)
-data/*.csv
-
 # Fichiers système
 .DS_Store
 Thumbs.db
