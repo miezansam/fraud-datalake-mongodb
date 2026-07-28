@@ -58,7 +58,6 @@ fraud-datalake-mongodb/
 ├── README.md
 ├── architecture.png
 ├── .gitignore
-├── data/                          # CSV sources (non versionnés, voir .gitignore)
 ├── scripts/
 │   ├── 01_ingestion_bronze.md     # Commandes mongoimport
 │   ├── 02_silver_mobile_money.js  # Transformation Silver (Mobile Money)
